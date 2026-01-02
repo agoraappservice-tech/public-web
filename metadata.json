@@ -1,0 +1,9 @@
+{
+  "name": "Agora - Madrid Solar Vibes",
+  "description": "Exclusively for university students in Madrid. A daily gamified social experience to discover peers, chat, and stay updated with the city's student life.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
